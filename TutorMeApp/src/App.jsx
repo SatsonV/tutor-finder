@@ -1,11 +1,16 @@
 import { useState } from "react";
 import "./App.css";
+import Nav from "../Component/Nav.jsx";
+import Footer from "../Component/Footer.jsx";
+import Card from "../Component/Cards.jsx";
 
 function App() {
   return (
-    <div>
-      <h1>Hello REACT</h1>
-    </div>
+   <>
+   <Nav/>
+   <Footer/>
+   <card/>
+   </>
   );
 }
 
