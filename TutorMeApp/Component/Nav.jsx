@@ -1,11 +1,24 @@
 function Nav() {
     return (
      <header>
-      <h1>TutorMe</h1>
       <nav>
+        <ul class="sidebar">
+      <li>
+            <a href="#">Get Started</a>
+          </li>
+          <li>
+            <a href="#"> About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+          </ul>
         <ul>
           <li>
-            <a href="#">Home</a>
+            <h1>TUTORME</h1>
+          </li>
+          <li>
+            <a href="#">Get Started</a>
           </li>
           <li>
             <a href="#"> About</a>

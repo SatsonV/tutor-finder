@@ -1,4 +1,4 @@
-import ProfilePic from "../images/3d Space.jpg"
+
 function Card() {
   return (
     <div className="card">
